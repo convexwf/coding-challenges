@@ -5,3 +5,5 @@ Inspired By [Build Your Own Xxd | Coding Challenges](https://codingchallenges.fy
 ## Rust Solution
 
 cargo init --vcs none --name cc-xxd --bin . --edition 2021
+
+xxd/od/hexdump
